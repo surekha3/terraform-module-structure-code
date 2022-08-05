@@ -32,3 +32,4 @@ variable "tag_environment" {
   description = "The environment in which vpc is going to spin"
   type        = string
   default     = "test"
+}
